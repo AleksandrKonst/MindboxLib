@@ -26,7 +26,7 @@
 
 ## Структура БД
 
-
+![image](https://github.com/AleksandrKonst/MindboxLib/assets/40522320/73ee9069-9c47-4d08-913c-65cec58d7d54)
 
 ## Запрос
 Запрос под `PostgreSQL`.
@@ -49,3 +49,14 @@ LEFT JOIN category as c ON cp.id_category  = c.id;
 
 ## Проверка
 
+### product
+![image](https://github.com/AleksandrKonst/MindboxLib/assets/40522320/13c32cf8-5972-4ad4-b89b-0c514f52d8f9)
+
+### category
+![image](https://github.com/AleksandrKonst/MindboxLib/assets/40522320/cde228a3-1cdf-42f9-b4e4-a50fcee68344)
+
+### categoryproducts
+![image](https://github.com/AleksandrKonst/MindboxLib/assets/40522320/22050c69-838e-46d6-8a6d-bb89d3c7c1e9)
+
+### Запрос
+![image](https://github.com/AleksandrKonst/MindboxLib/assets/40522320/3d032d1d-66bb-4696-90b5-28c658d28853)
