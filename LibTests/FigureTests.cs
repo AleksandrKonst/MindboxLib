@@ -43,10 +43,10 @@ public class FigureTests
     {
         var trueResult = new List<string>()
         {
-            "Triangle","Сircle"
+            "Сircle","Triangle"
         };
         
-        Assert.Equal(JsonConvert.SerializeObject(trueResult), 
+        Assert.Equal(JsonConvert.SerializeObject(trueResult.OrderByDescending(x => x)), 
             JsonConvert.SerializeObject(FigureFactory.GetFigureNames.OrderByDescending(x => x)));
     }
     
