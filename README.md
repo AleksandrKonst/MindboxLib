@@ -25,6 +25,7 @@
 По возможности — положите ответ рядом с кодом из первого вопроса.
 
 ## Структура БД
+> Дамп базы данных находиться в папке [dump](https://github.com/AleksandrKonst/MindboxLib/tree/master/dump)
 
 ![image](https://github.com/AleksandrKonst/MindboxLib/assets/40522320/73ee9069-9c47-4d08-913c-65cec58d7d54)
 
